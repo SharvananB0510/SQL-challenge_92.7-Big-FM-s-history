@@ -1,4 +1,4 @@
-# SQL-challenge_92.7-Big-FM-s-history
+# SQL-challenge_92.7-Big-FM's-history
 
 This contribution is part of challenge presented by Digits n Data.
 
